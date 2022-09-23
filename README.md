@@ -1,6 +1,7 @@
 # Yo yo yo!
 
 I got you a little b-day surprise.
+
 To find out what it is, copy and run the following code in your terminal on macOS:
 
 ```bash
