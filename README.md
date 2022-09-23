@@ -1,4 +1,4 @@
-Yo yo yo!
+# Yo yo yo!
 
 I got you a little surprise. To find out what it is, copy and run the following code in your terminal on macOS:
 
